@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //variables
         double cost;
         double shipping;
         double shippingPercent = 0.02;
